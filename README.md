@@ -23,12 +23,12 @@ DevSS is a portfolio website built using Next.js, Tailwind CSS, and Framer Motio
 
 ## Installation
 
-To get started with DevSS, follow these steps:
+To get started with personal-portfolio, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/DevSS.git
+   git clone https://github.com/yourusername/personal-portfolio.git
    cd DevSS
    ```
 
