@@ -29,7 +29,7 @@ To get started with personal-portfolio, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/personal-portfolio.git
-   cd DevSS
+   cd personal-portfolio
    ```
 
 2. **Install the dependencies:**
