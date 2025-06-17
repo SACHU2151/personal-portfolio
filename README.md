@@ -1,6 +1,6 @@
-# Devfolio
+# DevSS
 
-Devfolio is a portfolio website built using Next.js, Tailwind CSS, and Framer Motion. It allows developers to showcase their projects, skills, and blogs in a visually appealing manner.
+DevSS is a portfolio website built using Next.js, Tailwind CSS, and Framer Motion. It allows developers to showcase their projects, skills, and blogs in a visually appealing manner.
 
 ## Table of Contents
 
@@ -23,13 +23,13 @@ Devfolio is a portfolio website built using Next.js, Tailwind CSS, and Framer Mo
 
 ## Installation
 
-To get started with Devfolio, follow these steps:
+To get started with DevSS, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/devfolio.git
-   cd devfolio
+   git clone https://github.com/yourusername/DevSS.git
+   cd DevSS
    ```
 
 2. **Install the dependencies:**
